@@ -5,9 +5,7 @@ Detecção de distância exibida em tempo real via Monitor Serial
 Alertas visuais e sonoros configurados para quatro faixas de distância:
 
 4 m: sem alerta
-
 2–4 m: três LEDs piscando com buzzer intermitente a 440 Hz
-
 1–2 m: quatro LEDs piscando com buzzer intermitente a 880 Hz
 
 < 1 m: cinco LEDs acesos continuamente com buzzer contínuo
