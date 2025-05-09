@@ -7,13 +7,19 @@ Alertas visuais e sonoros configurados para quatro faixas de distância:
 4 m: sem alerta
 
 2–4 m: três LEDs piscando com buzzer intermitente a 440 Hz
+
 1–2 m: quatro LEDs piscando com buzzer intermitente a 880 Hz
+
 < 1 m: cinco LEDs acesos continuamente com buzzer contínuo
+
 Configuração via jumpers:
+
 00: sistema desligado
+
 01 / 10: alerta somente visual (som desativado)
+
 11: operação normal
-Indicação do estado dos jumpers por LEDs dedicados
+  
 
 Materiais:
 Arduino (Uno, Nano etc.)
